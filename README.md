@@ -1,2 +1,2 @@
-# reference
+# Docs
 Collection of public references
